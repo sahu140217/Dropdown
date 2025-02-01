@@ -1,0 +1,20 @@
+body{
+    background-image: url(background\ image.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Overview{
+    margin-top: 15%;
+    margin-left: 30%;
+    height: 50px; 
+    width: 500px;
+    background-color: rgb(176, 169, 213);
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 5%;
+}
+s
